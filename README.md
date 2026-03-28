@@ -13,7 +13,7 @@ This is a simple calculator application that performs basic arithmetic operation
 - 🧼 Clear button
 - 📱 Responsive design (works on mobile & desktop)
 
-- ![image alt](https://github.com/sanyacodesAI/Calculator-App/blob/c2af80d93756e6b4ea276703d5178fd09cdaeaa1/Screenshot%202026-03-28%20153242.png)
+ ![image alt](https://github.com/sanyacodesAI/Calculator-App/blob/c2af80d93756e6b4ea276703d5178fd09cdaeaa1/Screenshot%202026-03-28%20153242.png)
 
 🛠️ Technologies Used
 
